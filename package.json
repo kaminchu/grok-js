@@ -46,6 +46,7 @@
     "async": "^3.0.1",
     "collections": "^5.1.9",
     "debug": "^4.1.1",
+    "graceful-fs": "^4.2.1",
     "oniguruma": "^7.2.0",
     "universalify": "^0.1.2"
   },
